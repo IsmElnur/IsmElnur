@@ -1,8 +1,10 @@
 ### Hi, I'm Elnur Ismailov 👋
 
-🔭 I'm currently looking for a job.
-🌱 I studied at Bauman MSTU and completed my studies at RUSS.
-📫 https://t.me/elnur_ism
+- 🔭 I'm currently looking for a job.
+
+- 🌱 I studied at Bauman MSTU and completed my studies at RUSS.
+
+- 📫 https://t.me/elnur_ism
 <!--
 **IsmElnur/IsmElnur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
