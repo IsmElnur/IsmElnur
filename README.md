@@ -1,4 +1,4 @@
-### Hi, I'm Elnur Ismailov 👋
+### Hi, I'm Elnur 👋
 
 - 🔭 I'm currently looking for a job.
 
