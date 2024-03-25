@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently looking for a job.
 
-- 🌱 I studied at Bauman MSTU and completed my studies at RUSS.
+- 🌱 I studied at Bauman MSTU and completed my studies at RSSU.
 
 - 📫 https://t.me/elnur_ism
 <!--
